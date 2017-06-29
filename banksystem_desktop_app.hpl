@@ -1,0 +1,133 @@
++-----------------------------------------------------------------+
+|                   BANK SYSTEM - DESKTOP APPLICATION             |
++-----------------+                                   +-----------+
+|                 |             HELP                  |           |
++-----------------+-----------------------------------+-----------+
++-----------------------------------------------------------------+
+|GENERAL LOGIN (Menu shortcuts)                                   |
+|                                                                 |
+|	Account (Menu)-----> Alt+A                                |
+|                                                                 |
+|		Ctrl+A-----> Open new account                     |
+|		Ctrl+B-----> Activate net banking                 |
+|		Ctrl+D-----> Deactivate net banking               |
+|		Ctrl+E-----> Activate debit card                  |
+|		Ctrl+F-----> Deactivate debit card                |
+|		Ctrl+G-----> Activate credit card                 |
+|		Ctrl+H-----> Deactivate credit card               |
+|		Ctrl+J-----> View account details                 |
+|                                                                 |
+|	Transaction (Menu)-----> Alt+T                            |
+|                                                                 |
+|		Ctrl+K-----> Cash deposit                         |
+|		Ctrl+L-----> Cash withdraw                        |
+|		Ctrl+M-----> Print account statement              |
+|                                                                 |
+|	USER_NAME (Menu)                                          |
+|                                                                 |
+|		Ctrl+P-----> Change password                      |
+|		Ctrl+U-----> LogOut                               |
+|                                                                 |
+|	Help (Menu)----->Alt+H                                    |
+|                                                                 |
+|		Ctrl+Q-----> About Us                             |
+|		Ctrl+R-----> Help Content                         |
++-----------------------------------------------------------------+
++-----------------------------------------------------------------+
+|ADMINISTRATIVE LOGIN (Menu shortcuts)                            |
+|                                                                 |
+|	Users (Menu)-----> Alt+U                                  |
+|                                                                 |
+|		Ctrl+A-----> Add new user account                 |
+|		Ctrl+B-----> Delete user account                  |
+|		Ctrl+D-----> Lock/Unlock user account             |
+|		Ctrl+F-----> View user                            |
+|                                                                 |
+|	Bank-Internal (Menu)-----> Alt+B                          |
+|                                                                 |
+|		Ctrl+H-----> Add new account number               |
+|		Ctrl+I-----> Add new branch details               |
+|		Ctrl+J-----> View branch details                  |
+|		Ctrl+K-----> Update branch details                |
+|		Ctrl+M-----> Add new designation                  |
+|		Ctrl+O-----> Add new transaction type             |
+|                                                                 |
+|	USER_NAME (Menu)                                          |
+|                                                                 |
+|		Ctrl+P-----> Change password                      |
+|		Ctrl+U-----> LogOut                               |
+|                                                                 |
+|	Help (Menu)----->Alt+H                                    |
+|                                                                 |
+|		Ctrl+Q-----> About Us                             |
+|		Ctrl+R-----> Help Content                         |
++-----------------------------------------------------------------+
++-----------------------------------------------------------------+
+|HR LOGIN (Menu shortcuts)                                        |
+|                                                                 |
+|	Employee (Menu)-----> Alt+E                               |
+|                                                                 |
+|		Ctrl+A-----> Add new employee                     |
+|		Ctrl+B-----> Update contact                       |
+|		Ctrl+D-----> Salary                               |
+|		Ctrl+E-----> Department                           |
+|		Ctrl+F-----> Designation                          |
+|		Ctrl+G-----> View employee details                |
+|		Ctrl+H-----> List all employee                    |
+|		Ctrl+I-----> List employee by department          |
+|                                                                 |
+|	Payments (Menu)-----> Alt+P                               |
+|                                                                 |
+|		Ctrl+L-----> View salary slip of an employee      |
+|                                                                 |
+|	USER_NAME (Menu)                                          |
+|                                                                 |
+|		Ctrl+P-----> Change password                      |
+|		Ctrl+U-----> LogOut                               |
+|                                                                 |
+|	Help (Menu)----->Alt+H                                    |
+|                                                                 |
+|		Ctrl+Q-----> About Us                             |
+|		Ctrl+R-----> Help Content                         |
++-----------------------------------------------------------------+
++-----------------------------------------------------------------+
+|The bank system desktop application is the result of the project |
+|work done by the students of PG-DAC course of CDAC-ACTS Knowledge|
+|park Bangalore (India). The aim of the project work is to make a |
+|desktop application as well as a net banking enable web site of a|
+|bank.List of project team members are listed below:              |
+|	Anil Kumar                                                |
+|	M S Pranav                                                |
+|	Shashi Bhushan Verma					  |
+|	Abhishek Kumar						  |
+|	Akhilesh Chandra					  |
+|	Kuldeep							  |
+|Team member involve in desktop application developement are:     |
+|	Anil Kumar						  |
+|	M S Pranav						  |
+|	Shashi Bhushan Verma					  |
+|	Abhishek Kumar						  |
+|Team member involve in web site developement are:    		  |
+|	Abhishek Kumar						  |
+|	Akhilesh Chandra					  |
+|	Kuldeep							  |
+|	M S Pranav						  |
+|	Anil Kumar						  |
+|	Shashi Bhushan Verma					  |
+|Team member involve in database developement are:		  |
+|	Anil Kumar						  |
+|	Abhishek Kumar						  |
+|	M S Pranav						  |
+|	Shashi Bhushan Verma					  |
+|Desktop application testing done by				  |
+|	Anil Kumar						  |
+|	M S Pranav						  |
+|	Shashi Bhushan Verma					  |
++-----------------------------------------------------------------+
+|			  A GREATE THANKS			  |
+|			 	TO				  |
+|			   MS. SHUKESINI			  |
+|			 OUR PROJECT GUIDE			  |
++-----------------------------------------------------------------+
+|            A GREATE THANKS TO CDAC-ACTS FACULTIES (KP)	  |
++-----------------------------------------------------------------+

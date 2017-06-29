@@ -238,7 +238,7 @@ public class BankSystemGUIForAdmin extends JFrame implements ActionListener{
 			new LoginForm().setVisible(true);
 		}
 		if(e.getSource()==aboutItem){
-			new ExecuteNotepad("BANK_SYSTEM_HELP");
+			new ExecuteNotepad("banksystem_desktop_app.hpl");
 		}
 	}
 }

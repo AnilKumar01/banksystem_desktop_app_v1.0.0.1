@@ -224,7 +224,7 @@ public class BankSystemGUIForClerk extends JFrame implements ActionListener, Win
 			internalFrameHolder.add(new ChangePassword(user));
 		}
 		if(e.getSource()==aboutItem){
-			new ExecuteNotepad("BANK_SYSTEM_HELP");
+			new ExecuteNotepad("banksystem_desktop_app.hpl");
 		}
 	}
 
